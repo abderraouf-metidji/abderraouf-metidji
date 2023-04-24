@@ -20,8 +20,6 @@
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderraouf-metidji)](https://github.com/anuraghazra/github-readme-stats)
-
 - 📫 How to reach me: 
 
 <a href="mailto:abderraoufmetidji@gmail.com">
