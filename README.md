@@ -24,3 +24,7 @@ Hi there 👋
 
 email : abderraoufmetidji@gmail.com
 linkedin : https://www.linkedin.com/in/abderraouf-metidji/
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderraouf-metidji)](https://github.com/anuraghazra/github-readme-stats)
+
